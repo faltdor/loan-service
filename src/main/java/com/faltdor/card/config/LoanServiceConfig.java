@@ -9,7 +9,7 @@ import java.util.Map;
 
 
 @Configuration
-@ConfigurationProperties( prefix = "loan" )
+@ConfigurationProperties( prefix = "loan-service" )
 @Data
 public class LoanServiceConfig {
 
